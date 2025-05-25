@@ -1,0 +1,9 @@
+{
+  "imports": {
+    "@std/assert": "jsr:@std/assert@1"
+  },
+  "name": "@adtp/adtp",
+  "version": "1.0.0",
+  "license": "MIT",
+  "exports": "./adtp.ts"
+}
